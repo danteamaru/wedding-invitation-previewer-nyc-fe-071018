@@ -1,5 +1,5 @@
 
 
 function getInput() {
-  let x = document.getElementById('')
+  let x = document.getElementById('form')
 }
