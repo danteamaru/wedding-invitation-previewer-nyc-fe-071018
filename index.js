@@ -1,5 +1,5 @@
 
 
-function getInput {
-  document.getElementById('')
+function getInput() {
+  let x = document.getElementById('')
 }
