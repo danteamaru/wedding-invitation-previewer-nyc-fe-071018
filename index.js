@@ -1,1 +1,1 @@
-document.getElement
+document.getElementById
