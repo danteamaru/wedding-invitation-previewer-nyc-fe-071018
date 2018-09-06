@@ -1,1 +1,5 @@
-document.getElementById('')
+
+
+function getInput {
+  document.getElementById('')
+}
